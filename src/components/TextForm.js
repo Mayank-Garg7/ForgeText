@@ -64,7 +64,7 @@ function TextForm({ title = "Enter Text" }) {
         </div>
         
         <h3>Preview</h3>
-        <p className="border rounded p-2 bg-light">
+        <p className="border rounded p-2 bg-light text-black">
           {text.length > 0 ? text : "Nothing to preview!"}
         </p>
       </div>
