@@ -31,7 +31,14 @@ src/
 │
 ├── components/
 │   ├── Button.js
+│   ├── Navbar.js
+│   ├── Footer.js
 │   └── TextForm.js
+├── pages/
+│   ├── About.js
+│   ├── Contact.js
+│   ├── Home.js
+│   └── PageNotFound.js
 │
 ├── App.js
 └── index.js
@@ -116,7 +123,13 @@ Reusable button component used throughout the application.
 
 ## Screenshots
 
-*Add screenshots of your project here.*
+ UI Without Dark Mode ON 
+---
+<img width="1366" height="768" alt="snip1" src="https://github.com/user-attachments/assets/4efae24b-1abf-445a-bc53-58a3e9610047" />
+
+UI With Dark Mode ON
+---
+<img width="1366" height="768" alt="snip2" src="https://github.com/user-attachments/assets/fcf3cb86-ae55-4f69-8c8f-a3a4747fa41e" />
 
 ---
 
